@@ -1,6 +1,3 @@
-Here's a cleaner, well-structured, and professional version of your `README.md` for the **Background Remover App**:
-
----
 
 # 🧽 Background Remover App
 
