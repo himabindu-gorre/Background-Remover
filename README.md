@@ -1,10 +1,12 @@
 
  Background Remover App
+ 
 A full-stack AI-powered background remover built using React, Tailwind CSS, Spring Boot, and Clerk — inspired by remove.bg.
 
 ![Image](https://github.com/user-attachments/assets/55da4e75-cad6-4982-ad20-d444e6fcafe5)
 
 ✨ Key Features
+
 ⚡ Instant Background Removal – Upload an image and remove background in seconds using server-side processing
 
 💅 Modern UI/UX – Built with Tailwind CSS, responsive across all devices
@@ -22,6 +24,7 @@ A full-stack AI-powered background remover built using React, Tailwind CSS, Spri
 🧪 Developer-Friendly – Clean codebase, clearly separated concerns (frontend/backend)
 
 🧱 Tech Stack
+
 Layer	Tech
 Frontend	React, Tailwind CSS, Vite
 Backend	Spring Boot (Java)
@@ -78,6 +81,7 @@ Background-Remover/
 └── README.md
 
 🧩 Future Enhancements
+
 🖼️ Drag & Drop image upload
 
 📤 Export image in various formats (PNG, JPG)
